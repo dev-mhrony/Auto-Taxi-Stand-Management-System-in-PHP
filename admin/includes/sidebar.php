@@ -12,12 +12,12 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
         <nav class="navbar-sidebar">
             <ul class="list-unstyled navbar__list">
                 <li>
-                    <a href="dashboard.php" style="color: blue">
+                    <a href="dashboard.php">
                         <i class="fas fa-tachometer-alt"></i>Dashboard</a>
                 </li>
 
                 <li>
-                    <a href="new-autoortaxi-entry-form.php" style="color: blue">
+                    <a href="new-autoortaxi-entry-form.php">
                         <i class="fa fa-taxi" aria-hidden="true"></i>New Auto/Taxi Entry</a>
                 </li>
 
@@ -51,7 +51,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
 
                 <li>
-                    <a href="bwdates-reports.php" style="color: blue">
+                    <a href="bwdates-reports.php">
                         <i class="fas fa-copy"></i> Between Dates Report</a>
                 </li>
 
