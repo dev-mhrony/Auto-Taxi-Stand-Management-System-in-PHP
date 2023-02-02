@@ -32,7 +32,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                     <div class="account-wrap">
                         <div class="account-item clearfix js-item-menu">
                             <div class="image">
-                                <img src="images/icon/avatar-01.jpg" alt="John Doe" />
+                                <img src="images/icon/img.png" alt="Code Camp BD" />
                             </div>
                             <div class="content">
                                 <a class="js-acc-btn" href="admin-profile.php"><?php echo $name; ?></a>
@@ -41,7 +41,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
                                 <div class="info clearfix">
                                     <div class="image">
                                         <a href="#">
-                                            <img src="images/icon/img.png" alt="John Doe" />
+                                            <img src="images/icon/img.png" alt="Code Camp BD" />
                                         </a>
                                     </div>
                                     <div class="content">
