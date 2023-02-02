@@ -154,7 +154,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
                             <div class="col-sm-6 col-lg-4">
                                 <a href="last7days-autoortaxi-entry.php" target="_blank">
-                                    <div class="overview-item overview-item--c3">
+                                    <div class="overview-item overview-item--c2">
                                         <div class="overview__inner">
                                             <div class="overview-box clearfix">
                                                 <div class="icon">
@@ -188,7 +188,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 
                             <div class="col-sm-6 col-lg-4">
                                 <a href="manage-autoortaxi-entry.php" target="_blank">
-                                    <div class="overview-item overview-item--c4">
+                                    <div class="overview-item overview-item--c2">
                                         <div class="overview__inner">
                                             <div class="overview-box clearfix">
                                                 <div class="icon">
@@ -218,7 +218,7 @@ Youtube Link: https://www.youtube.com/channel/UChYhUxkwDNialcxj-OFRcDw
 -->
                             <div class="col-sm-6 col-lg-4">
                                 <a href="manage-autos-entry.php" target="_blank">
-                                    <div class="overview-item overview-item--c1">
+                                    <div class="overview-item overview-item--c2">
                                         <div class="overview__inner">
                                             <div class="overview-box clearfix">
                                                 <div class="icon">
